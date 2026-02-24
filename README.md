@@ -185,7 +185,3 @@ Steps:
   3. Run: python supermarket_numpy_analysis.py
   4. Enter Row IDs when prompted to explore individual and
      range-based records
-
-================================================================
-                     END OF DOCUMENT
-================================================================
